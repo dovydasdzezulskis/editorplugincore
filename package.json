@@ -1,0 +1,20 @@
+{
+  "name": "com.sap.editorplugincore",
+  "version": "1.6.2",
+  "displayName": "SAP Editor Plugin Core",
+  "dependencies": {
+    "com.sap.runtimecore": "1.0.9"
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3",
+    "keyword4"
+  ],
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "description": ""
+}

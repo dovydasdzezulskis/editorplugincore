@@ -1,0 +1,17 @@
+{
+    "name": "com.sap.editorplugincore.Editor",
+    "references": [
+        "GUID:0e5515097af986746b2d293f73335ca7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
